@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50" /></a>  
+  <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" height="50" /></a>  
   <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>  
 </div>
 

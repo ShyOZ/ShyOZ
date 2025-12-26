@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Shy Ohev Zion  
-- 👨‍🎓 BSc graduate in Software Engineering (93.6 average), looking for my first job 
+- 👨‍🎓 BSc graduate in Software Engineering (93.6 average)
 - 👀 Interested in games, anime, and programming
 - 📬 Mail me at: shyoz98@gmail.com
 
@@ -13,6 +13,9 @@
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
   <a href="https://kotlinlang.org" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </div> 
 
 <div align="center">
@@ -28,9 +31,6 @@
   <a href="https://postman.com" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" height="50" /></a>  
   <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>  
 </div>
-
-## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyOZ&hide_border=true&layout=compact" align="center" />
 <br/>
 
 ## Contact me

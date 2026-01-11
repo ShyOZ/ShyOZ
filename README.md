@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Shy Ohev Zion  
 - 👨‍🎓 BSc graduate in Software Engineering (93.6 average)
 - 👀 Interested in games, anime, and programming
-- 📬 Mail me at: shyoz98@gmail.com
+- 📬 Mail me at: shy.ohev.zion@gmail.com
 
 ## Languages, Frameworks, and Tools:
 <div align="center">
